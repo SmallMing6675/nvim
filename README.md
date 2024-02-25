@@ -9,13 +9,11 @@ A very fast lua based configuration that locates within a single file and is jus
 - [mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
 - [mason.nvim](https://github.com/williamboman/mason.nvim)
 - [outline.nvim](https://github.com/hedyhli/outline.nvim)
-
 - [cmp-buffer](https://github.com/hrsh7th/cmp-buffer)
 - [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
 - [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
-
 - [tokyonight](https://github.com/folke/tokyonight)
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [whichkey.nvim](https://github.com/folke/which-key.nvim)
@@ -24,7 +22,6 @@ A very fast lua based configuration that locates within a single file and is jus
 - [flash.nvim](https://github.com/folke/flash.nvim)
 - [nvim-surround](https://github.com/kylechui/nvim-surround)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
-
 - [mini.pairs](https://github.com/echasnovski/mini.pairs)
 - [mini.animate](https://github.com/echasnovski/mini.animate)
 - [mini.ai](https://github.com/echasnovski/mini.ai)
@@ -71,6 +68,11 @@ Total Average: 10.074140 msec
 Total Max:     14.388000 msec
 Total Min:     8.980000 msec
 ```
+
+### Simplicity
+This config is just over 300 lines long is contained within a single file.
+Making it easier to expand upon to make your own config.
+
 
 ## Setup configuration
 
