@@ -86,12 +86,10 @@ To use this configuration, you will need:
 
 To start, simply clone the repo into your neovim config:
 ``` bash
-    $ git clone https://github.com/SmallMing6675/nvim.git ~/.config/ #change this to the place for your own neovim config
+$ git clone https://github.com/SmallMing6675/nvim.git ~/.config/ #change this to the place for your own neovim config
 ```
-
 after cloning the repo, run `nvim` in your terminal to startup neovim. 
 This will install lazy, the plugins required and some LSP servers.
-
 
 ### Install LSP servers, formatters and linters
 running `:Mason` allows you to install anything you want, this is a couple of examples I usually install:
@@ -99,6 +97,3 @@ running `:Mason` allows you to install anything you want, this is a couple of ex
  - rust-analyzer (Rust)
  - stylua (Lua)
  - autoflake (Python)
-
-### Extending configuration
-This configuration is made to be extendable and simple.
